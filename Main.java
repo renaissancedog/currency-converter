@@ -24,7 +24,7 @@ public class Main extends JFrame {
         this.contentPane.setLayout(null);
 
         JLabel update = new JLabel();
-        update.setText("Data last updated April 4, 2024 20:10 UTC");
+        update.setText("Data last updated March 30, 2025 17:20 UTC");
         update.setBounds(147, 200, 250, 100);
         contentPane.add(update);
 

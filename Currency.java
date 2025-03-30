@@ -16,25 +16,25 @@ public class Currency {
 
     public static ArrayList<Currency> init() {
         ArrayList<Currency> currencies = new ArrayList<>();
-        currencies.add(new Currency("Australian Dollar",  1.519088));
-        currencies.add(new Currency("Brazilian Real",  5.0495262));
-        currencies.add(new Currency("Canadian Dollar",  1.3551792));
-        currencies.add(new Currency("Chinese Yuan",  7.2331831));
-        currencies.add(new Currency("Euro",  0.9229836));
-        currencies.add(new Currency("Hong Kong Dollar",  7.8284998));
-        currencies.add(new Currency("Indian Rupee",  83.455262));
-        currencies.add(new Currency("Japanese Yen",  151.28644));
-        currencies.add(new Currency("Mexican Peso",  16.607157));
-        currencies.add(new Currency("New Taiwan Dollar",  32.098222));
-        currencies.add(new Currency("New Zealand Dollar",  1.6610567));
-        currencies.add(new Currency("Norwegian Krone",  10.647166));
-        currencies.add(new Currency("Pound Sterling",  0.79121133));
-        currencies.add(new Currency("Russian Ruble",  91.630855));
-        currencies.add(new Currency("Singapore Dollar",  1.3490894));
-        currencies.add(new Currency("South African Rand",  18.738066));
-        currencies.add(new Currency("South Korean Won",  1352.1106));
-        currencies.add(new Currency("Swedish Krona",  10.646436));
-        currencies.add(new Currency("Swiss Franc",  0.90159304));
+        currencies.add(new Currency("Australian Dollar",  1.590436));
+        currencies.add(new Currency("Brazilian Real",  5.7597794));
+        currencies.add(new Currency("Canadian Dollar",  1.4318968));
+        currencies.add(new Currency("Chinese Yuan",  7.2627579));
+        currencies.add(new Currency("Euro",  0.92453138));
+        currencies.add(new Currency("Hong Kong Dollar",  7.7780742));
+        currencies.add(new Currency("Indian Rupee",  85.537373));
+        currencies.add(new Currency("Japanese Yen",  150.12172));
+        currencies.add(new Currency("Mexican Peso",  20.358714));
+        currencies.add(new Currency("New Taiwan Dollar",  33.229693));
+        currencies.add(new Currency("New Zealand Dollar",  1.7497891));
+        currencies.add(new Currency("Norwegian Krone",  10.490181));
+        currencies.add(new Currency("Pound Sterling",  0.7725545));
+        currencies.add(new Currency("Russian Ruble",  84.949089));
+        currencies.add(new Currency("Singapore Dollar",  1.342494));
+        currencies.add(new Currency("South African Rand",  18.386567));
+        currencies.add(new Currency("South Korean Won",  1470.3885));
+        currencies.add(new Currency("Swedish Krona",  10.007625));
+        currencies.add(new Currency("Swiss Franc",  0.88076886));
         currencies.add(new Currency("United States Dollar",  1));
         return currencies;
     }
